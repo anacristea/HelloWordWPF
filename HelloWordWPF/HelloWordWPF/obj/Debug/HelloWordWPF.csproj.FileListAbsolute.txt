@@ -50,6 +50,5 @@ D:\HelloWordWPF\HelloWordWPF\HelloWordWPF\bin\Microsoft.Owin.Security.OAuth.xml
 D:\HelloWordWPF\HelloWordWPF\HelloWordWPF\bin\Microsoft.Owin.Security.Google.xml
 D:\HelloWordWPF\HelloWordWPF\HelloWordWPF\bin\Microsoft.Owin.Security.Twitter.xml
 D:\HelloWordWPF\HelloWordWPF\HelloWordWPF\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-D:\HelloWordWPF\HelloWordWPF\HelloWordWPF\obj\Debug\HelloWordWPF.csprojResolveAssemblyReference.cache
 D:\HelloWordWPF\HelloWordWPF\HelloWordWPF\obj\Debug\HelloWordWPF.dll
 D:\HelloWordWPF\HelloWordWPF\HelloWordWPF\obj\Debug\HelloWordWPF.pdb
